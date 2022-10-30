@@ -1,0 +1,22 @@
+body {
+    background-color:hsl(30, 38%, 92%);
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+img {
+    height: 600px;
+    width: 400px;
+    
+}
+
+.card {
+    height: 600px;
+    width: 400px;
+    background-color: hsl(0, 0%, 100%);
+}

@@ -61,7 +61,7 @@ p {
     margin-top: 0px;
     text-decoration: line-through;
     position: absolute;
-    top: 605px;
+    top: 610px;
 }
 
 button {
@@ -77,9 +77,19 @@ button {
     cursor: pointer;
 }
 
-/* @media (max-width: 500px) {
+@media (max-width: 600px) {
     .container {
+        display: flex;
         flex-direction: column;
-        padding-top: 5px;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    } 
+
+    #discount {
+        position: absolute;
+        top: 835px;
     }
-} */
+}
+
+

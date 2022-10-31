@@ -11,8 +11,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/shaalle/Product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://product-prev-card-component.netlify.app/)
+- Solution URL: (https://github.com/shaalle/Product-preview-card-component)
+- Live Site URL: (https://product-prev-card-component.netlify.app/)
 
 
 
